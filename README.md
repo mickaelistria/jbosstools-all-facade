@@ -4,12 +4,12 @@ This repository is only a "Facade" repository which links you to all JBoss Tools
 
 ## Usage
 
-If you're a contributor who wants to write code, DON'T USE IT. Use direct jbosstools-<module> repositories instead.
+If you're a contributor who wants to write code, DON'T USE IT. Use direct jbosstools-_module_ repositories instead.
 This repository can be used by CI servers to get all sources in one shot, and to build everything in one shot:
 
 ### Get all sources
 
-Get all master:
+Get all "master":
 <pre>
 git clone git://github.com/mickaelistria/jbosstools-all.git
 ./submodules.sh init master
@@ -25,9 +25,9 @@ git clone git://github.com/mickaelistria/jbosstools-all.git
 
 First install parent and Target-platform, if you don't want to rely on JBoss Nexus instance.
 <pre>
-cd <repo>/jbosstools-build/target-platforms
+cd jbosstools-all-facade/jbosstools-build/target-platforms
 mvn install
-cd <repo>/jbosstools-build/parent
+cd jbosstools-all-facade/jbosstools-build/parent
 mvn install
 </pre>
 
