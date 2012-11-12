@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xmlns='http://maven.apache.org/POM/4.0.0 xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance'
+	xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.jboss.tools</groupId>
+	<artifactId>all</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<modules>
+		<module>jbosstools-base</module>
+		<module>jbosstools-server</module>
+		<module>jbosstools-openshift</module>
+		<module>jbosstools-webservices</module>
+		<module>jbosstools-jst</module>
+		<module>jbosstools-forge</module>
+		<module>jbosstools-esb</module>
+		<module>jbosstools-bpel</module>
+		<module>jbosstools-runtime-soa</module>
+		<module>jbosstools-javaee</module>
+		<module>jbosstools-jbpm</module>
+		<module>jbosstools-portlet</module>
+		<module>jbosstools-gwt</module>
+		<module>jbosstools-freemarker</module>
+		<module>jbosstools-birt</module>
+		<module>jbosstools-vpe</module>
+		<module>jbosstools-central</module>
+	</modules>
+</project>

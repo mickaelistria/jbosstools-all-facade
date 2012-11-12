@@ -1,0 +1,69 @@
+[submodule "jbosstools-base"]
+	path = jbosstools-base
+	url = git://github.com/jbosstools/jbosstools-base.git
+[submodule "jbosstools-build"]
+	path = jbosstools-build
+	url = git://github.com/jbosstools/jbosstools-build
+[submodule "jbosstools-server"]
+	path = jbosstools-server
+	url = git://github.com/jbosstools/jbosstools-server
+[submodule "jbosstools-openshift"]
+	path = jbosstools-openshift
+	url = git://github.com/jbosstools/jbosstools-openshift
+[submodule "jbosstools-webservices"]
+	path = jbosstools-webservices
+	url = git://github.com/jbosstools/jbosstools-webservices
+[submodule "jbosstools-jst"]
+	path = jbosstools-jst
+	url = git://github.com/jbosstools/jbosstools-jst
+[submodule "jbosstools-forge"]
+	path = jbosstools-forge
+	url = git://github.com/jbosstools/jbosstools-forge
+[submodule "jbosstools-esb"]
+	path = jbosstools-esb
+	url = git://github.com/jbosstools/jbosstools-esb
+[submodule "jbosstools-bpel"]
+	path = jbosstools-bpel
+	url = git://github.com/jbosstools/jbosstools-bpel
+[submodule "jbosstools-runtime-soa"]
+	path = jbosstools-runtime-soa
+	url = git://github.com/jbosstools/jbosstools-runtime-soa
+[submodule "jbosstools-javaee"]
+	path = jbosstools-javaee
+	url = git://github.com/jbosstools/jbosstools-javaee
+[submodule "jbosstools-jbpm"]
+	path = jbosstools-jbpm
+	url = git://github.com/jbosstools/jbosstools-jbpm
+[submodule "jbosstools-portlet"]
+	path = jbosstools-portlet
+	url = git://github.com/jbosstools/jbosstools-portlet
+[submodule "jbosstools-gwt"]
+	path = jbosstools-gwt
+	url = git://github.com/jbosstools/jbosstools-gwt
+[submodule "jbosstools-freemarker"]
+	path = jbosstools-freemarker
+	url = git://github.com/jbosstools/jbosstools-freemarker
+[submodule "jbosstools-birt"]
+	path = jbosstools-birt
+	url = git://github.com/jbosstools/jbosstools-birt
+[submodule "jbosstools-vpe"]
+	path = jbosstools-vpe
+	url = git://github.com/jbosstools/jbosstools-vpe
+[submodule "jbosstools-central"]
+	path = jbosstools-central
+	url = git://github.com/jbosstools/jbosstools-central
+[submodule "jbosstools-integration-tests"]
+	path = jbosstools-integration-tests
+	url = git://github.com/jbosstools/jbosstools-integration-tests
+[submodule "jbosstools-build-sites"]
+	path = jbosstools-build-sites
+	url = git://github.com/jbosstools/jbosstools-build-sites
+[submodule "jbosstools-documentation"]
+	path = jbosstools-documentation
+	url = git://github.com/jbosstools/jbosstools-documentation
+[submodule "jbosstools-build-ci"]
+	path = jbosstools-build-ci
+	url = git://github.com/jbosstools/jbosstools-build-ci
+[submodule "jbosstools-website"]
+	path = jbosstools-website
+	url = git://github.com/jbosstools/jbosstools-website
