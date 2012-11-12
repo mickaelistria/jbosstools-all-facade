@@ -21,7 +21,7 @@ git clone git://github.com/mickaelistria/jbosstools-all.git
 ./submodules.sh init jbosstools-4.0.0.Alpha2
 </pre>
 
-=== Build everything ===
+### Build everything
 
 First install parent and Target-platform, if you don't want to rely on JBoss Nexus instance.
 <pre>
@@ -29,7 +29,7 @@ cd <repo>/jbosstools-build/target-platforms
 mvn install
 cd <repo>/jbosstools-build/parent
 mvn install
-<pre>
+</pre>
 
 Then:
 <pre>
