@@ -1,19 +1,19 @@
-= JBoss Tools Facade repository =
+# JBoss Tools Facade repository
 
 This repository is only a "Facade" repository which links you to all JBoss Tools repositories via submodules.
 
-== Usage ==
+## Usage
 
-If you're a contributor who wants to write code, DON'T USE IT. Use direct jbosstools-* repositories instead.
+If you're a contributor who wants to write code, DON'T USE IT. Use direct jbosstools-<module> repositories instead.
 This repository can be used by CI servers to get all sources in one shot, and to build everything in one shot:
 
-=== Get all sources ===
+### Get all sources
 
 Get all master:
 <pre>
 git clone git://github.com/mickaelistria/jbosstools-all.git
 ./submodules.sh init master
-<pre>
+</pre>
 
 Get all branches "jbosstools-4.0.0.Alpha2":
 <pre>
