@@ -67,3 +67,9 @@
 [submodule "jbosstools-website"]
 	path = jbosstools-website
 	url = git://github.com/jbosstools/jbosstools-website
+[submodule "jbosstools-xulrunner"]
+	path = jbosstools-xulrunner
+	url = git://github.com/jbosstools/jbosstools-xulrunner.git
+[submodule "jbosstools-hibernate"]
+	path = jbosstools-hibernate
+	url = git://github.com/jbosstools/jbosstools-hibernate.git

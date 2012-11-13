@@ -2,6 +2,7 @@
 
 submodules="jbosstools-build
 jbosstools-base
+jbosstools-hibernate
 jbosstools-server
 jbosstools-openshift
 jbosstools-webservices
@@ -16,6 +17,7 @@ jbosstools-portlet
 jbosstools-gwt
 jbosstools-freemarker
 jbosstools-birt
+jbosstools-xulrunner
 jbosstools-vpe
 jbosstools-central
 jbosstools-integration-tests

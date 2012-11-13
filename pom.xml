@@ -9,20 +9,18 @@
 
 	<modules>
 		<module>jbosstools-base</module>
+		<module>jbosstools-hibernate</module>
 		<module>jbosstools-server</module>
 		<module>jbosstools-openshift</module>
 		<module>jbosstools-webservices</module>
 		<module>jbosstools-jst</module>
 		<module>jbosstools-forge</module>
-		<module>jbosstools-esb</module>
-		<module>jbosstools-bpel</module>
-		<module>jbosstools-runtime-soa</module>
 		<module>jbosstools-javaee</module>
-		<module>jbosstools-jbpm</module>
 		<module>jbosstools-portlet</module>
 		<module>jbosstools-gwt</module>
 		<module>jbosstools-freemarker</module>
 		<module>jbosstools-birt</module>
+		<module>jbosstools-xulrunner</module>
 		<module>jbosstools-vpe</module>
 		<module>jbosstools-central</module>
 	</modules>
