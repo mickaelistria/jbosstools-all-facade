@@ -19,21 +19,9 @@
 [submodule "jbosstools-forge"]
 	path = jbosstools-forge
 	url = git://github.com/jbosstools/jbosstools-forge
-[submodule "jbosstools-esb"]
-	path = jbosstools-esb
-	url = git://github.com/jbosstools/jbosstools-esb
-[submodule "jbosstools-bpel"]
-	path = jbosstools-bpel
-	url = git://github.com/jbosstools/jbosstools-bpel
-[submodule "jbosstools-runtime-soa"]
-	path = jbosstools-runtime-soa
-	url = git://github.com/jbosstools/jbosstools-runtime-soa
 [submodule "jbosstools-javaee"]
 	path = jbosstools-javaee
 	url = git://github.com/jbosstools/jbosstools-javaee
-[submodule "jbosstools-jbpm"]
-	path = jbosstools-jbpm
-	url = git://github.com/jbosstools/jbosstools-jbpm
 [submodule "jbosstools-portlet"]
 	path = jbosstools-portlet
 	url = git://github.com/jbosstools/jbosstools-portlet
@@ -73,3 +61,6 @@
 [submodule "jbosstools-hibernate"]
 	path = jbosstools-hibernate
 	url = git://github.com/jbosstools/jbosstools-hibernate.git
+[submodule "jbosstools-download.jboss.org"]
+	path = jbosstools-download.jboss.org
+	url = git@github.com:jbosstools/jbosstools-download.jboss.org.git
